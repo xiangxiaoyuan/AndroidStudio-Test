@@ -1,5 +1,2 @@
-## recyclerview ¼ÓÔØgreendaoÖĞµÄÊı¾İ£¬ÈÕ¼Ç±¾µØ´æ´¢£¬ÊµÏÖ¸ö¼òµ¥µÄ¼ÇÊÂ±¾¹¦ÄÜ     
-a notepad which entirely concise   
-  ![](https://wx4.sinaimg.cn/mw690/8ddf97a3ly1fq8szu0nlaj20u01hcab6.jpg)
-  ![](https://wx2.sinaimg.cn/mw690/8ddf97a3ly1fq8szty0kmj20u01hcq55.jpg )  {:height="50%" width="50%"}
-  ![](https://wx4.sinaimg.cn/mw690/8ddf97a3ly1fq8sztzug3j20u01hcwf9.jpg)  
+## recyclerview åŠ è½½greendaoä¸­çš„æ•°æ®ï¼Œæ—¥è®°æœ¬åœ°å­˜å‚¨ï¼Œå®ç°ä¸ªç®€å•çš„è®°äº‹æœ¬åŠŸèƒ½     
+ 
